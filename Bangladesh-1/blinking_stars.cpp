@@ -57,6 +57,6 @@ void blinking_stars()
 	glVertex2i(243,143);
 	glVertex2i(243,143);
 	glEnd();
-	for(l=0;l<=1000;l++)  //blinking the stars
+	for(l=0;l<=100;l++)  //blinking the stars
 		;
 }
